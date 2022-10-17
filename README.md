@@ -1,2 +1,2 @@
 # Chess
- Chess Game
+ Simple Chess App implemented using java with UI
